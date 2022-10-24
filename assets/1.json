@@ -1,0 +1,20 @@
+{
+    "name": "rorshach",
+    "symbol": "wmen",
+    "description": "Collection of 3 numbers on the blockchain. This is the number 2/3.",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "1"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://w7.pngwing.com/pngs/298/202/png-transparent-rorschach-watchmen-comics-comic-book-television-show-others-television-dc-comics-fictional-character.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "name": "watchmen",
+    "symbol": "wmen",
+    "description": "Collection of 3 numbers on the blockchain. This is the number 3/3.",
+    "image": "https://www.syfy.com/sites/syfy/files/2019/11/screen-shot-2019-11-11-at-10.14.14-am.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "3"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

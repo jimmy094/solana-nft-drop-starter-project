@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "3vTLKQbbQZC5sEwoEtGNBHcQBJ43RgMWhxvENVHHDJwH",
+    "candyMachineCreator": "Cp2EpABLg5came99gqN9XC6bNWUxdMm2uiv9U1RdpXqF",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "drManhattan",
+      "image_hash": "8012973660392386ecc80becac1ed51b2beebf032fefa65869971b79d082fea4",
+      "image_link": "https://nftstorage.link/ipfs/bafybeifhab7sxs7udoeubv5daqjv73gp5p6znqkmcgxci3sqaamumzx5ly/0.png",
+      "metadata_hash": "f9eacc387ec7f7eb27596c75f9963aacace234f8931d164e4524ef07a5281426",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeich46zvppg2btra7dxrpsmbmicuit2s2hw4ekkbrwrkemq7xcsi7e/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "rorshach",
+      "image_hash": "595d3f21a7ed1a1a1ca03440484935c6a06fcffced1cfa940d2b3bc1f035f680",
+      "image_link": "https://nftstorage.link/ipfs/bafybeifhab7sxs7udoeubv5daqjv73gp5p6znqkmcgxci3sqaamumzx5ly/1.png",
+      "metadata_hash": "9fbcdd93861cb6fd3a6a6a6f4876f9cc006d6a69f58be4aed56578fe04053235",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeich46zvppg2btra7dxrpsmbmicuit2s2hw4ekkbrwrkemq7xcsi7e/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "watchmen",
+      "image_hash": "71958b29a29990e3f1d2b346fdb7dff89f918386722e210384665c88506f8b6b",
+      "image_link": "https://nftstorage.link/ipfs/bafybeifhab7sxs7udoeubv5daqjv73gp5p6znqkmcgxci3sqaamumzx5ly/2.png",
+      "metadata_hash": "3adaa14b386ce0eb03f6777bdcc45a8480b33d6c5e7f8a47d19ef7a88cc6ccf7",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeich46zvppg2btra7dxrpsmbmicuit2s2hw4ekkbrwrkemq7xcsi7e/2.json",
+      "onChain": true
+    }
+  }
+}

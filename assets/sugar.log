@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"Jimmys-Air","pid":19117,"time":"2022-10-24T00:15:00.689937Z","target":"sugar","line":116,"file":"src/main.rs"}
+"v":0,"name":"sugar","msg":"MissingFileError(\"config.json\")","level":50,"hostname":"Jimmys-Air","pid":18223,"time":"2022-10-24T00:03:38.352039Z","target":"sugar_cli::config::parser","line":21,"file":"src/config/parser.rs"}
